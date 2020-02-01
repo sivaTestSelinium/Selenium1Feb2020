@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51942" started-at="2020-02-01T03:12:56Z" finished-at="2020-02-01T03:13:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51942" started-at="2020-02-01T03:12:56Z" finished-at="2020-02-01T03:13:48Z">
+      <class name="com.tm.TestCases.TestCases_Myinfo">
+        <test-method status="PASS" signature="setupReport()[pri:0, instance:com.tm.TestCases.TestCases_Myinfo@1b604f19]" name="setupReport" is-config="true" duration-ms="302" started-at="2020-02-01T08:42:56Z" finished-at="2020-02-01T08:42:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method status="PASS" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:com.tm.TestCases.TestCases_Myinfo@1b604f19]" name="launchBrowser" is-config="true" duration-ms="11985" started-at="2020-02-01T08:42:56Z" finished-at="2020-02-01T08:43:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.tm.TestCases.TestCases_Myinfo.Tc104_AddProfile()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Tc104_AddProfile()[pri:0, instance:com.tm.TestCases.TestCases_Myinfo@1b604f19]" name="Tc104_AddProfile" duration-ms="39879" started-at="2020-02-01T08:43:08Z" finished-at="2020-02-01T08:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc104_AddProfile -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.tm.TestCases.TestCases_Myinfo@1b604f19]" name="closeBrowser" is-config="true" duration-ms="30" started-at="2020-02-01T08:43:48Z" finished-at="2020-02-01T08:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="toEnd()[pri:0, instance:com.tm.TestCases.TestCases_Myinfo@1b604f19]" name="toEnd" is-config="true" duration-ms="17789" started-at="2020-02-01T08:43:48Z" finished-at="2020-02-01T08:44:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toEnd -->
+      </class> <!-- com.tm.TestCases.TestCases_Myinfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

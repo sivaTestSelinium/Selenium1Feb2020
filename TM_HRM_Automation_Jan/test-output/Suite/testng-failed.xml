@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.tm.TestCases.TestCases_TimeSheets">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="toEnd"/>
+          <include name="launchBrowser"/>
+          <include name="TC0001_EditTimeSheet"/>
+          <include name="setupReport"/>
+        </methods>
+      </class> <!-- com.tm.TestCases.TestCases_TimeSheets -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
